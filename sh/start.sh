@@ -1,4 +1,4 @@
-/home/bbs/bin/camera
-/home/bbs/bin/account
-/home/bbs/bin/acpro
-/home/bbs/bin/makefw
+$HOME/bin/camera
+$HOME/bin/account
+$HOME/bin/acpro
+$HOME/bin/makefw
