@@ -1,6 +1,8 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/ccns/dreambbs.git
+	branch = master
 [submodule "ccnsbbsweb"]
 	path = web
 	url = https://github.com/ccns/ccnsbbsweb.git
+	branch = master
