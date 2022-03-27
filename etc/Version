@@ -1,3 +1,10 @@
+Pirate Bulletin Board System            Version: 1.00
+Copyright (C) 1990                      Edward A. Luke
+
+Eagles Bulletin Board System            Version: 2.00-3.00
+Copyright (C) 1992, 1993, 1994          Raymond R. Rocker, Dominic B. Tynes
+                                        Guy T. Vega
+
 Phoenix Bulletin Board System           Version: 3.00-4.0
 Copyright (C) 1993, 1994                Ming-Feng Chen, Ji-Tzay Yang
                                         Tsun-Yi Wen
@@ -15,19 +22,33 @@ Copyright (C) 1996                      Kaede, woju
 Wind's Top Bulletin Board System        Version: 2.3 Rev. 981101
 Copyright (C) 1998                      Yu-Chung Tsao, virtu
 
-Wind's Top Bulletin Board System        Version: 3.02 Rev. 20031002
-Copyright (C) 2000-2002                 visor, statue, Jerics, yab, verit
+Wind's Top Bulletin Board System        Version: 2.4 Rev. 991031
+Copyright (C) 1999                      Sar, statue
+
+MapleBridge Bulletin Board System       Version: 3.00
+Copyright (C) 1995-1997                 Jeng-Hermes Lin
+
+MapleBridge Bulletin Board System       Version: 3.02
+Copyright (C) 1997-1998                 Jeng-Hermes Lin, ¼ï¤¯¸q (Thor)
+
+DragonII Bulletin Board System          Version: 3.02
+Copyright (C) 1998-1999                 ¦¶«G·_ (lkchu)
+
+Wind's Top Bulletin Board System        Version: 3.02 Rev. 20040424
+Copyright (C) 2000-2004                 visor, statue, Jerics, yab, verit
 
 DreamLand Bulletin Board System         Version: 3.02
 Copyright (C) 2004-2008                 cat
+
+MapleBridge Bulletin Board System       Version: 3.10
+Copyright (C) 1998-2000                 ¼ï¤¯¸q (Thor)
 
 Wind's Top Bulletin Board System        Version: 3.10 Rev. 20081002
 Copyright (C) 2004-2008                 Hung-Yi Chen (gaod)
 
 DreamLand Bulletin Board System         Version: 3.10 Rev. Beta 3
-Copyright (C) 2010-2019                 Pang-Wei Tsai (cache)
+Copyright (C) 2010-2017                 Pang-Wei Tsai (cache)
 
-DreamLand Bulletin Board System         Version 2.0-CURRENT
-Copyright (C) 2017-2019                 r2, IepIweidieng
-
-source code: https://github.com/ccns/dreambbs
+DreamLand Bulletin Board System         Version: 3.10.95 - 3.21.0
+Copyright (C) 2017-2022                 Wei-Cheng Yeh (IID)
+                                        Sean Li-Shin Ho (r2)
