@@ -2,17 +2,15 @@
 
 
  1. ¦pªG±zªº¤u§@¯¸¬°[unix]¨t²Î¡A
-    ·í±z¦¬¨ì¡i­·¤§¶ð¡j±Hµ¹±zªº¨­¥÷½T»{«H¨ç¤§«á¡A
-    ½Ð¶i¤J±zªº¤u§@¯¸¡A¥ýÅª«H¡A¦A«ö[r]¡A¦A«ö[ctrl-d]¦^«H¡C
+    ·í±z¦¬¨ì¡i¹Ú¤§¤j¦a¡j±Hµ¹±zªº¨­¥÷½T»{«H¨ç¤§«á¡A
+    [1;33m½Ð¶i¤J±zªº¤u§@¯¸¡A¥ýÅª«H¡A¦A«ö[r]¡A¦A«ö[ctrl-d]¦^«H¡C[m
 
  2. ¦pªG±zªº¤u§@¯¸¬°[vax]¨t²Î¡A
-    ·í±z¦¬¨ì¡i­·¤§¶ð¡j±Hµ¹±zªº¨­¥÷½T»{«H¨ç¤§«á¡A
+    ·í±z¦¬¨ì¡i¹Ú¤§¤j¦a¡j±Hµ¹±zªº¨­¥÷½T»{«H¨ç¤§«á¡A
     ½Ð¶i¤J±zªº¤u§@¯¸¡A¥ýÅª«H¡A¦A«ö[reply]¡A¦A«ö[ctrl-z]¦^«H¡C
 
- 3. ¦pªG±z¨S¦³¤u§@¯¸±b¸¹¡A½Ð¦V±zªº ISP ¥Ó½Ð¤@­Ó E-mail«H½c¡A
-    ¶i¦æ E-mail reply ¨­¥÷»{ÃÒ¡C
-
- 4. Pop3 »{ÃÒ¤è¦¡ (U)ser -> (A)ddress ¡C
+ 3. [1;32m¦pªG±z¨S¦³¤u§@¯¸±b¸¹[m¡A[1;33m½Ð¦V±zªº ISP ¥Ó½Ð¤@­Ó E-mail«H½c¡A[m
+    [1;33m¶i¦æ E-mail reply ¨­¥÷»{ÃÒ¡C[m
 
  ¡° ¦pªG©ñ°²´Á¶¡¡A±zªº¤u§@¯¸¨S¶}¡A
-    ½Ð°õ¦æ User¡÷Address¡A¨t²Î·|¦Û°Ê¦A±H¤@«Ê«H¨ç¨ì±zªº¤u§@¯¸¤Wµ¥§A¦^«H¡C
+    ½Ð°õ¦æ User¡÷Setup->Address¡A¨t²Î·|¦Û°Ê¦A±H¤@«Ê«H¨ç¨ì±zªº¤u§@¯¸¤Wµ¥§A¦^«H¡C
